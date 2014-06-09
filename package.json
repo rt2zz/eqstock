@@ -1,0 +1,15 @@
+{
+  "name": "eqcook",
+  "version": "0.0.0",
+  "description": "",
+  "main": "extension.js",
+  "dependencies": {
+    "lodash": "~2.4.0",
+    "cookies": "~0.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zack Story <zstory@ucla.edu>",
+  "license": "ISC"
+}
